@@ -19,5 +19,5 @@
    
   2)  Big-O gösterimini yazınız.
   
-    O(n*(logn)) --> 6log6
+         O(n*(logn))
    
